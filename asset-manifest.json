@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/riverstone/static/css/main.8b38b360.css",
+    "main.js": "/riverstone/static/js/main.c9dc123c.js",
+    "static/js/453.7bc7561b.chunk.js": "/riverstone/static/js/453.7bc7561b.chunk.js",
+    "static/media/Content@3x.png": "/riverstone/static/media/Content@3x.09397888d8ad30959082.png",
+    "index.html": "/riverstone/index.html",
+    "main.8b38b360.css.map": "/riverstone/static/css/main.8b38b360.css.map",
+    "main.c9dc123c.js.map": "/riverstone/static/js/main.c9dc123c.js.map",
+    "453.7bc7561b.chunk.js.map": "/riverstone/static/js/453.7bc7561b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b38b360.css",
+    "static/js/main.c9dc123c.js"
+  ]
+}
